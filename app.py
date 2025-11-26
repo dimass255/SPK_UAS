@@ -561,7 +561,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #666;'>"
     "📚 Sistem Pendukung Keputusan - Clustering Kebiasaan Membaca | "
-    "Metode: K-Means Clustering | Dibuat dengan ❤️ menggunakan Streamlit"
+    "Metode: K-Means Clustering | Dibuat dengan menggunakan Streamlit"
     "</div>", 
     unsafe_allow_html=True
 )
